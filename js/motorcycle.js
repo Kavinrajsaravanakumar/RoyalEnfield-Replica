@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   const bikeId = params.get("id") || "classic350"; // fallback for testing
 
   try {
-    const response = await fetch("./data/bike.json");
+    const response = await fetch("../data/bike.json");
     const bikes = await response.json();
     const bike = bikes.find((b) => b.id === bikeId);
 
