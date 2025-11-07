@@ -1,0 +1,418 @@
+[
+  {
+    "id": "classic350",
+    "name": "Royal Enfield Classic 350",
+    "description": "Timeless design meets modern performance.",
+    "mainImage": "https://imgd.aeplcdn.com/664x374/n/cw/ec/183389/classic-350-right-front-three-quarter-4.jpeg?isig=0&q=80",
+    "moreImages": [
+      "https://imgd.aeplcdn.com/1056x594/n/oxqqleb_1768251.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/2g6qleb_1768249.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/iv5qleb_1768253.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/m3tqleb_1768255.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/wynqleb_1768247.jpg?q=80"
+    ],
+    "sections": {
+      "Power & Performance": {
+        "Displacement": "349 cc",
+        "Max Power": "20.2 bhp @ 6100 rpm",
+        "Max Torque": "27 Nm @ 4000 rpm",
+        "Top Speed": "115 kmph"
+      },
+      "Brakes & Wheels": {
+        "Braking System": "Single Channel ABS",
+        "Front Brake Type": "Disc",
+        "Front Brake Size": "300 mm",
+        "Caliper - Front": "2 Piston"
+      },
+      "Dimensions": {
+        "Kerb Weight": "195 kg",
+        "Seat Height": "805 mm",
+        "Ground Clearance": "170 mm"
+      }
+    }
+  },
+  {
+    "id": "bullet350",
+    "name": "Royal Enfield Bullet 350",
+    "description": "The iconic thump reborn for modern riders.",
+    "mainImage": "https://imgd.aeplcdn.com/664x374/n/cw/ec/1/versions/royalenfield-bullet-battalion-black1740992373327.jpg?q=80",
+    "moreImages": [
+      "https://imgd.aeplcdn.com/1056x594/n/oxqqleb_1768251.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/2g6qleb_1768249.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/iv5qleb_1768253.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/m3tqleb_1768255.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/wynqleb_1768247.jpg?q=80"
+    ],
+    "sections": {
+      "Power & Performance": {
+        "Displacement": "349 cc",
+        "Max Power": "20.2 bhp @ 6100 rpm",
+        "Max Torque": "27 Nm @ 4000 rpm",
+        "Top Speed": "110 kmph"
+      },
+      "Brakes & Wheels": {
+        "Braking System": "Dual Channel ABS",
+        "Front Brake Type": "Disc",
+        "Front Brake Size": "300 mm",
+        "Caliper - Front": "2 Piston"
+      },
+      "Dimensions": {
+        "Kerb Weight": "195 kg",
+        "Seat Height": "805 mm",
+        "Ground Clearance": "170 mm"
+      }
+    }
+  },
+  {
+    "id": "goanclassic350",
+    "name": "Royal Enfield Goan Classic 350",
+    "description": "A relaxed tropical edition of the Classic 350 with Goan-inspired aesthetics.",
+    "mainImage": "https://imgd.aeplcdn.com/664x374/n/cw/ec/1/versions/royalenfield-goan-classic-350-single-tone1735911616652.jpg?q=80",
+    "moreImages": [
+      "https://imgd.aeplcdn.com/1056x594/n/oxqqleb_1768251.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/2g6qleb_1768249.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/iv5qleb_1768253.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/m3tqleb_1768255.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/wynqleb_1768247.jpg?q=80"
+    ],
+    "sections": {
+      "Power & Performance": {
+        "Displacement": "349 cc",
+        "Max Power": "20.2 bhp @ 6100 rpm",
+        "Max Torque": "27 Nm @ 4000 rpm",
+        "Top Speed": "115 kmph"
+      },
+      "Brakes & Wheels": {
+        "Braking System": "Dual Channel ABS",
+        "Front Brake Type": "Disc",
+        "Front Brake Size": "300 mm",
+        "Caliper - Front": "2 Piston"
+      },
+      "Dimensions": {
+        "Kerb Weight": "197 kg",
+        "Seat Height": "750 mm",
+        "Ground Clearance": "170 mm"
+      }
+    }
+  },
+  {
+    "id": "meteor350",
+    "name": "Royal Enfield Meteor 350",
+    "description": "A cruiser built for comfort and confidence on the open road.",
+    "mainImage": "https://imgd.aeplcdn.com/664x374/n/cw/ec/210213/meteor-350-right-front-three-quarter.jpeg?isig=0&q=80",
+    "moreImages": [
+      "https://imgd.aeplcdn.com/1056x594/n/oxqqleb_1768251.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/2g6qleb_1768249.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/iv5qleb_1768253.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/m3tqleb_1768255.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/wynqleb_1768247.jpg?q=80"
+    ],
+    "sections": {
+      "Power & Performance": {
+        "Displacement": "349 cc",
+        "Max Power": "20.2 bhp @ 6100 rpm",
+        "Max Torque": "27 Nm @ 4000 rpm",
+        "Top Speed": "112 kmph"
+      },
+      "Brakes & Wheels": {
+        "Braking System": "Dual Channel ABS",
+        "Front Brake Type": "Disc",
+        "Front Brake Size": "300 mm",
+        "Caliper - Front": "2 Piston"
+      },
+      "Dimensions": {
+        "Kerb Weight": "191 kg",
+        "Seat Height": "765 mm",
+        "Ground Clearance": "170 mm"
+      }
+    }
+  },
+  {
+    "id": "thunderbird350",
+    "name": "Royal Enfield Thunderbird 350",
+    "description": "The legend that defined long-distance cruising in India.",
+    "mainImage": "https://imgd.aeplcdn.com/664x374/bw/models/royalenfield-thunderbird.jpg?20190103151915&q=80",
+    "moreImages": [
+      "https://imgd.aeplcdn.com/1056x594/n/oxqqleb_1768251.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/2g6qleb_1768249.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/iv5qleb_1768253.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/m3tqleb_1768255.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/wynqleb_1768247.jpg?q=80"
+    ],
+    "sections": {
+      "Power & Performance": {
+        "Displacement": "346 cc",
+        "Max Power": "19.8 bhp @ 5250 rpm",
+        "Max Torque": "28 Nm @ 4000 rpm",
+        "Top Speed": "110 kmph"
+      },
+      "Brakes & Wheels": {
+        "Braking System": "Dual Channel ABS",
+        "Front Brake Type": "Disc",
+        "Front Brake Size": "280 mm",
+        "Caliper - Front": "2 Piston"
+      },
+      "Dimensions": {
+        "Kerb Weight": "195 kg",
+        "Seat Height": "775 mm",
+        "Ground Clearance": "135 mm"
+      }
+    }
+  },
+  {
+    "id": "himalayan450",
+    "name": "Royal Enfield Himalayan 450",
+    "description": "Next-gen adventure tourer with liquid-cooled power and off-road DNA.",
+    "mainImage": "https://imgd.aeplcdn.com/664x374/n/bw/models/colors/royal-enfield-select-model-kaza-brown-1698908621684.png?q=80",
+    "moreImages": [
+      "https://imgd.aeplcdn.com/1056x594/n/oxqqleb_1768251.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/2g6qleb_1768249.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/iv5qleb_1768253.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/m3tqleb_1768255.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/wynqleb_1768247.jpg?q=80"
+    ],
+    "sections": {
+      "Power & Performance": {
+        "Displacement": "452 cc",
+        "Max Power": "39.47 bhp @ 8000 rpm",
+        "Max Torque": "40 Nm @ 5500 rpm",
+        "Top Speed": "135 kmph"
+      },
+      "Brakes & Wheels": {
+        "Braking System": "Dual Channel ABS (Switchable)",
+        "Front Brake Type": "Disc",
+        "Front Brake Size": "320 mm",
+        "Caliper - Front": "2 Piston"
+      },
+      "Dimensions": {
+        "Kerb Weight": "196 kg",
+        "Seat Height": "825 mm (Adjustable to 845 mm)",
+        "Ground Clearance": "230 mm"
+      }
+    }
+  },
+  {
+    "id": "scram440",
+    "name": "Royal Enfield Scram 440",
+    "description": "A scrambler-styled all-rounder with versatility for city and trail.",
+    "mainImage": "https://imgd.aeplcdn.com/664x374/n/cw/ec/1/versions/royalenfield-scram-440-trail1737527256669.jpg?q=80",
+    "moreImages": [
+      "https://imgd.aeplcdn.com/1056x594/n/oxqqleb_1768251.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/2g6qleb_1768249.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/iv5qleb_1768253.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/m3tqleb_1768255.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/wynqleb_1768247.jpg?q=80"
+    ],
+    "sections": {
+      "Power & Performance": {
+        "Displacement": "443 cc",
+        "Max Power": "25.4 bhp @ 6250 rpm",
+        "Max Torque": "34 Nm @ 4000 rpm",
+        "Top Speed": "120 kmph"
+      },
+      "Brakes & Wheels": {
+        "Braking System": "Switchable ABS",
+        "Front Brake Type": "Disc",
+        "Front Brake Size": "300 mm",
+        "Caliper - Front": "2 Piston"
+      },
+      "Dimensions": {
+        "Kerb Weight": "196 kg",
+        "Seat Height": "795 mm",
+        "Ground Clearance": "200 mm"
+      }
+    }
+  },
+  {
+    "id": "classic650",
+    "name": "Royal Enfield Classic 650",
+    "description": "The timeless Classic reborn with a parallel-twin heart.",
+    "mainImage": "https://imgd.aeplcdn.com/664x374/n/cw/ec/1/versions/royalenfield-classic-650-hotrod1743057249245.jpg?q=80",
+    "moreImages": [
+      "https://imgd.aeplcdn.com/1056x594/n/oxqqleb_1768251.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/2g6qleb_1768249.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/iv5qleb_1768253.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/m3tqleb_1768255.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/wynqleb_1768247.jpg?q=80"
+    ],
+    "sections": {
+      "Power & Performance": {
+        "Displacement": "648 cc",
+        "Max Power": "46.4 bhp @ 7250 rpm",
+        "Max Torque": "52.3 Nm @ 5650 rpm",
+        "Top Speed": "157 kmph"
+      },
+      "Brakes & Wheels": {
+        "Braking System": "Dual Channel ABS",
+        "Front Brake Type": "Disc",
+        "Front Brake Size": "320 mm",
+        "Caliper - Front": "2 Piston"
+      },
+      "Dimensions": {
+        "Kerb Weight": "243 kg",
+        "Seat Height": "800 mm",
+        "Ground Clearance": "154 mm"
+      }
+    }
+  },
+  {
+    "id": "continentalgt650",
+    "name": "Royal Enfield Continental GT 650",
+    "description": "A café racer with a modern parallel-twin and classic attitude.",
+    "mainImage": "https://imgd.aeplcdn.com/1056x594/n/cltpseb_1777225.jpg?q=80&wm=3",
+    "moreImages": [
+      "https://imgd.aeplcdn.com/1056x594/n/oxqqleb_1768251.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/2g6qleb_1768249.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/iv5qleb_1768253.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/m3tqleb_1768255.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/wynqleb_1768247.jpg?q=80"
+    ],
+    "sections": {
+      "Power & Performance": {
+        "Displacement": "648 cc",
+        "Max Power": "47 bhp @ 7250 rpm",
+        "Max Torque": "52 Nm @ 5250 rpm",
+        "Top Speed": "169 kmph"
+      },
+      "Brakes & Wheels": {
+        "Braking System": "Dual Channel ABS",
+        "Front Brake Type": "Disc",
+        "Front Brake Size": "320 mm",
+        "Caliper - Front": "2 Piston"
+      },
+      "Dimensions": {
+        "Kerb Weight": "214 kg",
+        "Seat Height": "804 mm",
+        "Ground Clearance": "174 mm"
+      }
+    }
+  },
+  {
+    "id": "shotgun650",
+    "name": "Royal Enfield Shotgun 650",
+    "description": "A neo-retro bobber with powerful twin-cylinder performance.",
+    "mainImage": "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/royal-enfield-select-model-plasma-blue-1705401005985.jpg?q=80&wm=3",
+    "moreImages": [
+      "https://imgd.aeplcdn.com/1056x594/n/oxqqleb_1768251.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/2g6qleb_1768249.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/iv5qleb_1768253.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/m3tqleb_1768255.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/wynqleb_1768247.jpg?q=80"
+    ],
+    "sections": {
+      "Power & Performance": {
+        "Displacement": "648 cc",
+        "Max Power": "46.4 bhp @ 7250 rpm",
+        "Max Torque": "52.3 Nm @ 5650 rpm",
+        "Top Speed": "160 kmph"
+      },
+      "Brakes & Wheels": {
+        "Braking System": "Dual Channel ABS",
+        "Front Brake Type": "Disc",
+        "Front Brake Size": "320 mm",
+        "Caliper - Front": "2 Piston"
+      },
+      "Dimensions": {
+        "Kerb Weight": "240 kg",
+        "Seat Height": "795 mm",
+        "Ground Clearance": "140 mm"
+      }
+    }
+  },
+  {
+    "id": "meteor650",
+    "name": "Royal Enfield Super Meteor 650",
+    "description": "The twin-powered cruiser that blends power and poise.",
+    "mainImage": "https://imgd.aeplcdn.com/1056x594/n/s2bpbgb_1838402.jpg?q=80",
+    "moreImages": [
+      "https://imgd.aeplcdn.com/1056x594/n/oxqqleb_1768251.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/2g6qleb_1768249.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/iv5qleb_1768253.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/m3tqleb_1768255.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/wynqleb_1768247.jpg?q=80"
+    ],
+    "sections": {
+      "Power & Performance": {
+        "Displacement": "648 cc",
+        "Max Power": "46.3 bhp @ 7250 rpm",
+        "Max Torque": "52.3 Nm @ 5650 rpm",
+        "Top Speed": "160 kmph"
+      },
+      "Brakes & Wheels": {
+        "Braking System": "Dual Channel ABS",
+        "Front Brake Type": "Disc",
+        "Front Brake Size": "320 mm",
+        "Caliper - Front": "2 Piston"
+      },
+      "Dimensions": {
+        "Kerb Weight": "241 kg",
+        "Seat Height": "740 mm",
+        "Ground Clearance": "135 mm"
+      }
+    }
+  },
+  {
+    "id": "guerilla450",
+    "name": "Royal Enfield Guerilla 450",
+    "description": "A sporty street bike built on the Himalayan 450 platform.",
+    "mainImage": "https://imgd.aeplcdn.com/1056x594/n/et6tseb_1777369.jpg?q=80",
+    "moreImages": [
+      "https://imgd.aeplcdn.com/1056x594/n/oxqqleb_1768251.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/2g6qleb_1768249.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/iv5qleb_1768253.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/m3tqleb_1768255.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/wynqleb_1768247.jpg?q=80"
+    ],
+    "sections": {
+      "Power & Performance": {
+        "Displacement": "452 cc",
+        "Max Power": "39.47 bhp @ 8000 rpm",
+        "Max Torque": "40 Nm @ 5500 rpm",
+        "Top Speed": "140 kmph"
+      },
+      "Brakes & Wheels": {
+        "Braking System": "Dual Channel ABS",
+        "Front Brake Type": "Disc",
+        "Front Brake Size": "310 mm",
+        "Caliper - Front": "2 Piston"
+      },
+      "Dimensions": {
+        "Kerb Weight": "184 kg",
+        "Seat Height": "780 mm",
+        "Ground Clearance": "169 mm"
+      }
+    }
+  },
+  {
+    "id": "bear650",
+    "name": "Royal Enfield Bear 650",
+    "description": "An upcoming scrambler variant of the 650 twin platform.",
+    "mainImage": "https://imgd.aeplcdn.com/1056x594/n/euvsc9b_1785449.jpg?q=80",
+    "moreImages": [
+      "https://imgd.aeplcdn.com/1056x594/n/oxqqleb_1768251.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/2g6qleb_1768249.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/iv5qleb_1768253.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/m3tqleb_1768255.jpg?q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/wynqleb_1768247.jpg?q=80"
+    ],
+    "sections": {
+      "Power & Performance": {
+        "Displacement": "648 cc",
+        "Max Power": "46.3 bhp @ 7150 rpm",
+        "Max Torque": "56.5 Nm @ 5150 rpm",
+        "Top Speed": "Not officially released"
+      },
+      "Brakes & Wheels": {
+        "Braking System": "Dual Channel ABS (Switchable)",
+        "Front Brake Type": "Disc",
+        "Front Brake Size": "320 mm",
+        "Caliper - Front": "2 Piston"
+      },
+      "Dimensions": {
+        "Kerb Weight": "216 kg",
+        "Seat Height": "Not officially released",
+        "Ground Clearance": "184 mm"
+      }
+    }
+  }
+]
